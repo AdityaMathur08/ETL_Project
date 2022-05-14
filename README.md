@@ -44,3 +44,12 @@ overall task in this project will be to build a batch ETL pipeline to read trans
 • Loading the data from Amazon S3 to Redshift tables.
 
 • Performing the analysis queries.
+
+
+#### Link to download data:
+https://www.kaggle.com/datasets/sparnord/danish-atm-transactions
+
+## Solution Approach
+
+![image](https://user-images.githubusercontent.com/53685624/168412687-2a04091f-4ee3-47e7-9a07-cffc5f8db911.png)
+
